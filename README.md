@@ -6,14 +6,20 @@
 - CSS 3
 ### Sections in the Webpage
 - Home
-![](Screenshot(148).png "Home")
+![](Screenshot%20(148).png "Home")
 - About
-![](Screenshot(149).png "About")
+![](Screenshot%20(149).png "About")
 - Business 
-![](Screenshot(150).png "Business")
+![](Screenshot%20(150).png "Business")
 - Mini Projects
-![](Screenshot(151).png "Projects")
+![](Screenshot%20(151).png "Projects")
 - Contact
-![](Screenshot(153).png "contact")
+![](Screenshot%20(153).png "contact")
+
 - Site Details
 
+[shashiportfolio](https://18k41a05h2.000webhostapp.com/verzeo/kk.html)
+
+
+### Website-link
+https://18k41a05h2.000webhostapp.com/verzeo/kk.html
